@@ -1,4 +1,4 @@
-# Goofy Autocorrect
+# An Autocorrect
 There is nothing goofy about this autocorrect, it is just the name I got in my mind. This project is an implementation of a simple autocorrect feature using a text corpus. The provided Python code reads a text file, builds a vocabulary, and then uses [Jaccard similarity coefficient](https://en.wikipedia.org/wiki/Jaccard_index) to suggest the most probable corrections for <ins>**misspeled**</ins> words.
 
 ## How it works
